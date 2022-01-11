@@ -11,12 +11,13 @@ function App() {
     const fetchCards = async () => {
       const res = await fetch("http://localhost:5000/cards")
       const data = await res.json()
-
-      console.log(data)
+      
+      data[0].map((card) => card.is_proxy == "true" ? console.log(card.name) : console.log("nope"))
+      //console.log(data)
     }
 
     fetchCards()
-  })
+  }, [])
 
   return (
     <div className="container">
