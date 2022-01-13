@@ -1,4 +1,4 @@
-import obi from "C:/Users/dougp/Documents/GitHub/kenobi4/kenobi4/src/images/uberobi.png";
+import obi from '../uberobi.png';
 
 const Header = (props) => {
     return (
