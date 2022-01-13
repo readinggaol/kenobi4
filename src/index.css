@@ -24,6 +24,15 @@
   margin: auto;
 }
 
+.toolbar{
+  background-color: #3f4242;
+}
+
+.toolbar button{
+
+  margin: 4px 10px 10px 4px;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

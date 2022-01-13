@@ -1,6 +1,5 @@
 const Button = (props) => {
     return <button className="btn-primary">{props.title}</button>
-
 }
 
 Button.defaultProps = {

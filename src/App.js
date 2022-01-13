@@ -1,28 +1,18 @@
 import Header from './components/Header'
 import Button from './components/Button'
 import Toolbar from './components/Toolbar';
-import { useEffect } from 'react';
+import { useState, useEffect } from 'react';
+import CollectionViewer from './components/CollectionViewer';
 
 // This is the central component from which all other components are loaded
 function App() {
 
-  //Query the locally run server to get the json list of cards
-  useEffect(() => {
-    const fetchCards = async () => {
-      const res = await fetch("http://localhost:5000/cards")
-      const data = await res.json()
-      
-      data[0].map((card) => card.is_proxy == "true" ? console.log(card.name) : console.log("nope"))
-      //console.log(data)
-    }
-
-    fetchCards()
-  }, [])
-
+ 
   return (
     <div className="container">
       <Header />
       <Toolbar />
+      <CollectionViewer />
     </div>
   );
 }

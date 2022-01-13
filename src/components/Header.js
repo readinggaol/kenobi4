@@ -3,7 +3,7 @@ import obi from "C:/Users/dougp/Documents/GitHub/kenobi4/kenobi4/src/images/uber
 const Header = (props) => {
     return (
         <div className="header">
-            <img src={obi} alt="not found"></img>
+            <img src={obi} alt="uber-obi logo"></img>
             <h1>{props.title}</h1>
         </div>
     )
