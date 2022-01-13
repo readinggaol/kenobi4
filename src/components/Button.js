@@ -1,5 +1,5 @@
 const Button = (props) => {
-    return <button className="btn-primary">{props.title}</button>
+    return <button onClick={props.onClick} className="btn-primary">{props.title}</button>
 }
 
 Button.defaultProps = {

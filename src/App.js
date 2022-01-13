@@ -17,7 +17,6 @@ function App() {
       const res = await fetch("http://localhost:5000/cards")
       const data = await res.json()
       setCards(data[0])
-      console.log("monkey")
     }
     //call the default method when we load the page
     fetchCards()
@@ -26,7 +25,7 @@ function App() {
   return (
     <div className="container">
       <Header />
-      <Toolbar changeCards={setCurrentCards()} changeLabel={setLabel} cards={cards}/>
+      <Toolbar setCurrentCards={setCurrentCards} setLabel={setLabel} cards={cards}/>
       <CollectionViewer cards={currentCards} label={label}/>
     </div>
   );

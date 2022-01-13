@@ -5,10 +5,11 @@ const CollectionViewer = (props) => {
   
     return (
         <div className="collectionviewer">
-            {/* <p>{props.label}</p> */}
+            <p>{props.label}</p>
             <select>
                 {props.cards.map((card) => (<option key={card.card_id}>{card.name}</option>) )}
             </select>
+            <label>( {props.cards.length} unique )</label>
             <img></img>
         </div>
     )
