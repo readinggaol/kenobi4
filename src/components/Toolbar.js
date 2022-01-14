@@ -9,7 +9,6 @@ const Toolbar = (props) => {
         props.cards.map((card) => card.is_proxy === "true" ? proxies.push(card) : null)
         props.setCurrentCards(proxies)
         props.setLabel("Proxies")
-        console.log(props.cards.length)
     }
 
     const getAuthenticCards = () => {
