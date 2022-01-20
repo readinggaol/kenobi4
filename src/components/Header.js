@@ -3,7 +3,10 @@ import obi from '../uberobi.png';
 const Header = (props) => {
     return (
         <div className="header">
-            <img src={obi} alt="uber-obi logo"></img>
+            <div>
+            <img className="logo" src={obi} alt="uber-obi logo"></img>
+            </div>
+            
             <h1>{props.title}</h1>
         </div>
     )
