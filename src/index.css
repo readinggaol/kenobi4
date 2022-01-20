@@ -27,6 +27,11 @@
   border-radius: 1em;
 }
 
+.cardBox{
+  display: flex;
+  justify-content: center;
+}
+
 .header h1{
   margin: auto;
 }
