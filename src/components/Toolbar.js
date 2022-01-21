@@ -1,4 +1,5 @@
 import Button from "./Button"
+import SearchBar from "./SearchBar"
 
 
 
@@ -28,6 +29,7 @@ const Toolbar = (props) => {
             <Button title="Complete" onClick={getAllCards} />
             <Button title="Proxy" onClick={getProxyCards}/>
             <Button title="Authentic" onClick={getAuthenticCards} />
+            <SearchBar cards={props.cards}/>
         </div>
     )
 }

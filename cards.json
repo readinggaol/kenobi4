@@ -9,6 +9,13 @@
             "quantity": 1
         },
         {
+            "card_id": 3330,
+            "copies_available": 1,
+            "is_proxy": "true",
+            "name": "Fungal Sprouting",
+            "quantity": 1
+        },
+        {
             "card_id": 1536,
             "copies_available": 1,
             "is_proxy": "false",
@@ -5780,2142 +5787,2135 @@
             "card_id": 3281,
             "copies_available": 5,
             "is_proxy": "true",
-            "name": " Fetid Heath",
+            "name": "Fetid Heath",
             "quantity": 5
         },
         {
             "card_id": 3282,
             "copies_available": 5,
             "is_proxy": "true",
-            "name": " Tundra",
+            "name": "Tundra",
             "quantity": 5
         },
         {
             "card_id": 3283,
             "copies_available": 5,
             "is_proxy": "true",
-            "name": " Badlands",
+            "name": "Badlands",
             "quantity": 5
         },
         {
             "card_id": 3284,
             "copies_available": 5,
             "is_proxy": "true",
-            "name": " Taiga",
+            "name": "Taiga",
             "quantity": 5
         },
         {
             "card_id": 3285,
             "copies_available": 4,
             "is_proxy": "true",
-            "name": " Fire-Lit Thicket",
+            "name": "Fire-Lit Thicket",
             "quantity": 4
         },
         {
             "card_id": 3286,
             "copies_available": 5,
             "is_proxy": "true",
-            "name": " Tropical Island",
+            "name": "Tropical Island",
             "quantity": 5
         },
         {
             "card_id": 3287,
             "copies_available": 3,
             "is_proxy": "true",
-            "name": " Wooded Bastion",
+            "name": "Wooded Bastion",
             "quantity": 3
         },
         {
             "card_id": 3288,
             "copies_available": 5,
             "is_proxy": "true",
-            "name": " Misty Rainforest",
+            "name": "Misty Rainforest",
             "quantity": 5
         },
         {
             "card_id": 3289,
             "copies_available": 5,
             "is_proxy": "true",
-            "name": " Rugged Prairie",
+            "name": "Rugged Prairie",
             "quantity": 5
         },
         {
             "card_id": 3290,
             "copies_available": 6,
             "is_proxy": "true",
-            "name": " Flooded Grove",
+            "name": "Flooded Grove",
             "quantity": 6
         },
         {
             "card_id": 3291,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Twilight Grove",
+            "name": "Twilight Grove",
             "quantity": 1
         },
         {
             "card_id": 3292,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Nicol-Bolas, God-Pharaoh",
+            "name": "Nicol-Bolas, God-Pharaoh",
             "quantity": 1
         },
         {
             "card_id": 3293,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Thousand-Year Storm",
+            "name": "Thousand-Year Storm",
             "quantity": 1
         },
         {
             "card_id": 3294,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Nicol Bolas, Dragon-God",
+            "name": "Nicol Bolas, Dragon-God",
             "quantity": 1
         },
         {
             "card_id": 3295,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Avacyn, Angel of Hope",
+            "name": "Avacyn, Angel of Hope",
             "quantity": 1
         },
         {
             "card_id": 3296,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Sylvan Library",
+            "name": "Sylvan Library",
             "quantity": 1
         },
         {
             "card_id": 3297,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Ecological Appreciation",
+            "name": "Ecological Appreciation",
             "quantity": 1
         },
         {
             "card_id": 3298,
             "copies_available": 5,
             "is_proxy": "true",
-            "name": " Sunken Ruins",
+            "name": "Sunken Ruins",
             "quantity": 5
         },
         {
             "card_id": 3299,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Fabricate",
+            "name": "Fabricate",
             "quantity": 1
         },
         {
             "card_id": 3300,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Blightsteel Colossus",
+            "name": "Blightsteel Colossus",
             "quantity": 1
         },
         {
             "card_id": 3301,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Spark Double",
+            "name": "Spark Double",
             "quantity": 1
         },
         {
             "card_id": 3302,
             "copies_available": 3,
             "is_proxy": "true",
-            "name": " Dimir Signet",
+            "name": "Dimir Signet",
             "quantity": 3
         },
         {
             "card_id": 3303,
             "copies_available": 2,
             "is_proxy": "true",
-            "name": " Mystical Tutor",
+            "name": "Mystical Tutor",
             "quantity": 2
         },
         {
             "card_id": 3304,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Jace, the Mind Sculptor",
+            "name": "Jace, the Mind Sculptor",
             "quantity": 1
         },
         {
             "card_id": 3305,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Time Warp",
+            "name": "Time Warp",
             "quantity": 1
         },
         {
             "card_id": 3306,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Temporal Manipulation",
+            "name": "Temporal Manipulation",
             "quantity": 1
         },
         {
             "card_id": 3307,
             "copies_available": 3,
             "is_proxy": "true",
-            "name": " Simic Signet",
+            "name": "Simic Signet",
             "quantity": 3
         },
         {
             "card_id": 3308,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Force of Negation",
+            "name": "Force of Negation",
             "quantity": 1
         },
         {
             "card_id": 3309,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Teferi's Protection",
+            "name": "Teferi's Protection",
             "quantity": 1
         },
         {
             "card_id": 3310,
             "copies_available": 2,
             "is_proxy": "true",
-            "name": " Worldly Tutor",
+            "name": "Worldly Tutor",
             "quantity": 2
         },
         {
             "card_id": 3311,
             "copies_available": 3,
             "is_proxy": "true",
-            "name": " Orzhov Signet",
+            "name": "Orzhov Signet",
             "quantity": 3
         },
         {
             "card_id": 3312,
             "copies_available": 3,
             "is_proxy": "true",
-            "name": " Arcane Signet",
+            "name": "Arcane Signet",
             "quantity": 3
         },
         {
             "card_id": 3313,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Exploration",
+            "name": "Exploration",
             "quantity": 1
         },
         {
             "card_id": 3314,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Court of Bounty",
+            "name": "Court of Bounty",
             "quantity": 1
         },
         {
             "card_id": 3315,
             "copies_available": 3,
             "is_proxy": "true",
-            "name": " Izzet Signet",
+            "name": "Izzet Signet",
             "quantity": 3
         },
         {
             "card_id": 3316,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Gisela, Blade of Goldnight",
+            "name": "Gisela, Blade of Goldnight",
             "quantity": 1
         },
         {
             "card_id": 3317,
             "copies_available": 3,
             "is_proxy": "true",
-            "name": " Rakdos Signet",
+            "name": "Rakdos Signet",
             "quantity": 3
         },
         {
             "card_id": 3318,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Mana Reflection",
+            "name": "Mana Reflection",
             "quantity": 1
         },
         {
             "card_id": 3319,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Idyllic Tutor",
+            "name": "Idyllic Tutor",
             "quantity": 1
         },
         {
             "card_id": 3320,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Cyclonic Tutor",
+            "name": "Cyclonic Tutor",
             "quantity": 1
         },
         {
             "card_id": 3321,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Pattern of Rebirth",
+            "name": "Pattern of Rebirth",
             "quantity": 1
         },
         {
             "card_id": 3322,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Assassin's Trophy",
+            "name": "Assassin's Trophy",
             "quantity": 1
         },
         {
             "card_id": 3323,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Zacama, Primal Calamity",
+            "name": "Zacama, Primal Calamity",
             "quantity": 1
         },
         {
             "card_id": 3324,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Mana Drain",
+            "name": "Mana Drain",
             "quantity": 1
         },
         {
             "card_id": 3325,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Supreme Verdict",
+            "name": "Supreme Verdict",
             "quantity": 1
         },
         {
             "card_id": 3326,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Rhystic Study",
+            "name": "Rhystic Study",
             "quantity": 1
         },
         {
             "card_id": 3327,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Flawless Maneuver",
+            "name": "Flawless Maneuver",
             "quantity": 1
         },
         {
             "card_id": 3328,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Merciless Eviction",
+            "name": "Merciless Eviction",
             "quantity": 1
         },
         {
             "card_id": 3329,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Koma, Cosmos Serpent",
-            "quantity": 1
-        },
-        {
-            "card_id": 3330,
-            "copies_available": 1,
-            "is_proxy": "true",
-            "name": " Fungal Sprouting",
+            "name": "Koma, Cosmos Serpent",
             "quantity": 1
         },
         {
             "card_id": 3331,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Biogenic Ooze",
+            "name": "Biogenic Ooze",
             "quantity": 1
         },
         {
             "card_id": 3332,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Vorinclex, Monstrous Raider",
+            "name": "Vorinclex, Monstrous Raider",
             "quantity": 1
         },
         {
             "card_id": 3333,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Mycoloth",
+            "name": "Mycoloth",
             "quantity": 1
         },
         {
             "card_id": 3334,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Solidarity of Heroes",
+            "name": "Solidarity of Heroes",
             "quantity": 1
         },
         {
             "card_id": 3335,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Talisman of Curiosity",
+            "name": "Talisman of Curiosity",
             "quantity": 1
         },
         {
             "card_id": 3336,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Force of Vigor",
+            "name": "Force of Vigor",
             "quantity": 1
         },
         {
             "card_id": 3337,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Generous Patron",
+            "name": "Generous Patron",
             "quantity": 1
         },
         {
             "card_id": 3338,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Command Beacon",
+            "name": "Command Beacon",
             "quantity": 1
         },
         {
             "card_id": 3339,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Verdant Confluence",
+            "name": "Verdant Confluence",
             "quantity": 1
         },
         {
             "card_id": 3340,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Fathom Mage",
+            "name": "Fathom Mage",
             "quantity": 1
         },
         {
             "card_id": 3341,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Hungering Hydra",
+            "name": "Hungering Hydra",
             "quantity": 1
         },
         {
             "card_id": 3342,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Viridan Joiner",
+            "name": "Viridan Joiner",
             "quantity": 1
         },
         {
             "card_id": 3343,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Master Biomancer",
+            "name": "Master Biomancer",
             "quantity": 1
         },
         {
             "card_id": 3344,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Neoform",
+            "name": "Neoform",
             "quantity": 1
         },
         {
             "card_id": 3345,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Natural Order",
+            "name": "Natural Order",
             "quantity": 1
         },
         {
             "card_id": 3346,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " The Ozolith",
+            "name": "The Ozolith",
             "quantity": 1
         },
         {
             "card_id": 3347,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Inscription of Abundance",
+            "name": "Inscription of Abundance",
             "quantity": 1
         },
         {
             "card_id": 3348,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Prime Speaker Vannifar",
+            "name": "Prime Speaker Vannifar",
             "quantity": 1
         },
         {
             "card_id": 3349,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Mystic Reflection",
+            "name": "Mystic Reflection",
             "quantity": 1
         },
         {
             "card_id": 3350,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Sage of Hours",
+            "name": "Sage of Hours",
             "quantity": 1
         },
         {
             "card_id": 3351,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Chasm Skulker",
+            "name": "Chasm Skulker",
             "quantity": 1
         },
         {
             "card_id": 3352,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Gyre Sage",
+            "name": "Gyre Sage",
             "quantity": 1
         },
         {
             "card_id": 3353,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Awakening Zone",
+            "name": "Awakening Zone",
             "quantity": 1
         },
         {
             "card_id": 3354,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Birthing Pod",
+            "name": "Birthing Pod",
             "quantity": 1
         },
         {
             "card_id": 3355,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Bane of Progress",
+            "name": "Bane of Progress",
             "quantity": 1
         },
         {
             "card_id": 3356,
             "copies_available": 5,
             "is_proxy": "true",
-            "name": " Wayfarer's Bauble",
+            "name": "Wayfarer's Bauble",
             "quantity": 5
         },
         {
             "card_id": 3357,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Hinterland Harbor",
+            "name": "Hinterland Harbor",
             "quantity": 1
         },
         {
             "card_id": 3358,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Sekki, Seasons' Guide",
+            "name": "Sekki, Seasons' Guide",
             "quantity": 1
         },
         {
             "card_id": 3359,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Sword of Body and Mind",
+            "name": "Sword of Body and Mind",
             "quantity": 1
         },
         {
             "card_id": 3360,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Ezuri, Claw of Progress",
+            "name": "Ezuri, Claw of Progress",
             "quantity": 1
         },
         {
             "card_id": 3361,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Uncage the Menagerie",
+            "name": "Uncage the Menagerie",
             "quantity": 1
         },
         {
             "card_id": 3362,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Triskelion",
+            "name": "Triskelion",
             "quantity": 1
         },
         {
             "card_id": 3363,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Primal Vigor",
+            "name": "Primal Vigor",
             "quantity": 1
         },
         {
             "card_id": 3364,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Lifeblood Hydra",
+            "name": "Lifeblood Hydra",
             "quantity": 1
         },
         {
             "card_id": 3365,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Chord of Calling",
+            "name": "Chord of Calling",
             "quantity": 1
         },
         {
             "card_id": 3366,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Branching Evolution",
+            "name": "Branching Evolution",
             "quantity": 1
         },
         {
             "card_id": 3367,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Everflowing Chalice",
+            "name": "Everflowing Chalice",
             "quantity": 1
         },
         {
             "card_id": 3368,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " From Beyond",
+            "name": "From Beyond",
             "quantity": 1
         },
         {
             "card_id": 3369,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Arachnogenesis",
+            "name": "Arachnogenesis",
             "quantity": 1
         },
         {
             "card_id": 3370,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Deepglow Skate",
+            "name": "Deepglow Skate",
             "quantity": 1
         },
         {
             "card_id": 3371,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Pact of Negation",
+            "name": "Pact of Negation",
             "quantity": 1
         },
         {
             "card_id": 3372,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Contagion Engine",
+            "name": "Contagion Engine",
             "quantity": 1
         },
         {
             "card_id": 3373,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Towering Titan",
+            "name": "Towering Titan",
             "quantity": 1
         },
         {
             "card_id": 3374,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Balefire Dragon",
+            "name": "Balefire Dragon",
             "quantity": 1
         },
         {
             "card_id": 3375,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Imperial Recruiter",
+            "name": "Imperial Recruiter",
             "quantity": 1
         },
         {
             "card_id": 3376,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Hellfire Tyrant",
+            "name": "Hellfire Tyrant",
             "quantity": 1
         },
         {
             "card_id": 3377,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Ryusei, the Falling Star",
+            "name": "Ryusei, the Falling Star",
             "quantity": 1
         },
         {
             "card_id": 3378,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Sneak Attack",
+            "name": "Sneak Attack",
             "quantity": 1
         },
         {
             "card_id": 3379,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Mikokoro, Center of the Sea",
+            "name": "Mikokoro, Center of the Sea",
             "quantity": 1
         },
         {
             "card_id": 3380,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Deflecting Swat",
+            "name": "Deflecting Swat",
             "quantity": 1
         },
         {
             "card_id": 3381,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " That Which Was Taken",
+            "name": "That Which Was Taken",
             "quantity": 1
         },
         {
             "card_id": 3382,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Reforge the Soul",
+            "name": "Reforge the Soul",
             "quantity": 1
         },
         {
             "card_id": 3383,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Karn Liberated",
+            "name": "Karn Liberated",
             "quantity": 1
         },
         {
             "card_id": 3384,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Utvara Hellkite",
+            "name": "Utvara Hellkite",
             "quantity": 1
         },
         {
             "card_id": 3385,
             "copies_available": 2,
             "is_proxy": "true",
-            "name": " Sensei's Divining Top",
+            "name": "Sensei's Divining Top",
             "quantity": 2
         },
         {
             "card_id": 3386,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Miren, the Moaning Well",
+            "name": "Miren, the Moaning Well",
             "quantity": 1
         },
         {
             "card_id": 3387,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Spawn of Thraxes",
+            "name": "Spawn of Thraxes",
             "quantity": 1
         },
         {
             "card_id": 3388,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Embercleave",
+            "name": "Embercleave",
             "quantity": 1
         },
         {
             "card_id": 3389,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Valakut, the Molten Pinnacle",
+            "name": "Valakut, the Molten Pinnacle",
             "quantity": 1
         },
         {
             "card_id": 3390,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Helm of the Host",
+            "name": "Helm of the Host",
             "quantity": 1
         },
         {
             "card_id": 3391,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Thousand-Year Elixir",
+            "name": "Thousand-Year Elixir",
             "quantity": 1
         },
         {
             "card_id": 3392,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Cavalier of Flame",
+            "name": "Cavalier of Flame",
             "quantity": 1
         },
         {
             "card_id": 3393,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Purphoros, Bronze-Blooded",
+            "name": "Purphoros, Bronze-Blooded",
             "quantity": 1
         },
         {
             "card_id": 3394,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Mindclaw Shaman",
+            "name": "Mindclaw Shaman",
             "quantity": 1
         },
         {
             "card_id": 3395,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Ox of Agonas",
+            "name": "Ox of Agonas",
             "quantity": 1
         },
         {
             "card_id": 3396,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Illusionist's Bracers",
+            "name": "Illusionist's Bracers",
             "quantity": 1
         },
         {
             "card_id": 3397,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Extraplanar Lens",
+            "name": "Extraplanar Lens",
             "quantity": 1
         },
         {
             "card_id": 3398,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Goblin Welder",
+            "name": "Goblin Welder",
             "quantity": 1
         },
         {
             "card_id": 3399,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Sculpting Steel",
+            "name": "Sculpting Steel",
             "quantity": 1
         },
         {
             "card_id": 3400,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Flamekin Village",
+            "name": "Flamekin Village",
             "quantity": 1
         },
         {
             "card_id": 3401,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Kiki-Jiki, Mirror Breaker",
+            "name": "Kiki-Jiki, Mirror Breaker",
             "quantity": 1
         },
         {
             "card_id": 3402,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Maze of Ith",
+            "name": "Maze of Ith",
             "quantity": 1
         },
         {
             "card_id": 3403,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Fireflux Squad",
+            "name": "Fireflux Squad",
             "quantity": 1
         },
         {
             "card_id": 3404,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Magewright's Stone",
+            "name": "Magewright's Stone",
             "quantity": 1
         },
         {
             "card_id": 3405,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Etali, Primal Storm",
+            "name": "Etali, Primal Storm",
             "quantity": 1
         },
         {
             "card_id": 3406,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Combat Celebrant",
+            "name": "Combat Celebrant",
             "quantity": 1
         },
         {
             "card_id": 3407,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Pathrazer of Ulamog",
+            "name": "Pathrazer of Ulamog",
             "quantity": 1
         },
         {
             "card_id": 3408,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Lithoform Engine",
+            "name": "Lithoform Engine",
             "quantity": 1
         },
         {
             "card_id": 3409,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Goblin Engineer",
+            "name": "Goblin Engineer",
             "quantity": 1
         },
         {
             "card_id": 3410,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Springjack Pasture",
+            "name": "Springjack Pasture",
             "quantity": 1
         },
         {
             "card_id": 3411,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Wound Reflection",
+            "name": "Wound Reflection",
             "quantity": 1
         },
         {
             "card_id": 3412,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Lashwrithe",
+            "name": "Lashwrithe",
             "quantity": 1
         },
         {
             "card_id": 3413,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Thrilling Encore",
+            "name": "Thrilling Encore",
             "quantity": 1
         },
         {
             "card_id": 3414,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Beseech the Queen",
+            "name": "Beseech the Queen",
             "quantity": 1
         },
         {
             "card_id": 3415,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Varragoth, Bloodsky Sire",
+            "name": "Varragoth, Bloodsky Sire",
             "quantity": 1
         },
         {
             "card_id": 3416,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Haunting Voyage",
+            "name": "Haunting Voyage",
             "quantity": 1
         },
         {
             "card_id": 3417,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Sheoldred, Whispering One",
+            "name": "Sheoldred, Whispering One",
             "quantity": 1
         },
         {
             "card_id": 3418,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Grave Pact",
+            "name": "Grave Pact",
             "quantity": 1
         },
         {
             "card_id": 3419,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Sword of War and Peace",
+            "name": "Sword of War and Peace",
             "quantity": 1
         },
         {
             "card_id": 3420,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Dictate of Erebos",
+            "name": "Dictate of Erebos",
             "quantity": 1
         },
         {
             "card_id": 3421,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Sanguine Bond",
+            "name": "Sanguine Bond",
             "quantity": 1
         },
         {
             "card_id": 3422,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Life's Finale",
+            "name": "Life's Finale",
             "quantity": 1
         },
         {
             "card_id": 3423,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Black Market",
+            "name": "Black Market",
             "quantity": 1
         },
         {
             "card_id": 3424,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Sword of Fire and Ice",
+            "name": "Sword of Fire and Ice",
             "quantity": 1
         },
         {
             "card_id": 3425,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Mana Vault",
+            "name": "Mana Vault",
             "quantity": 1
         },
         {
             "card_id": 3426,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Reanimate",
+            "name": "Reanimate",
             "quantity": 1
         },
         {
             "card_id": 3427,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Ink-Eyes, Servant of Oni",
+            "name": "Ink-Eyes, Servant of Oni",
             "quantity": 1
         },
         {
             "card_id": 3428,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Diabolic Intent",
+            "name": "Diabolic Intent",
             "quantity": 1
         },
         {
             "card_id": 3429,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Shizo, Death's Storehouse",
+            "name": "Shizo, Death's Storehouse",
             "quantity": 1
         },
         {
             "card_id": 3430,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Vampiric Tutor",
+            "name": "Vampiric Tutor",
             "quantity": 1
         },
         {
             "card_id": 3431,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Opposition Agent",
+            "name": "Opposition Agent",
             "quantity": 1
         },
         {
             "card_id": 3432,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Phyrexian Obliterator",
+            "name": "Phyrexian Obliterator",
             "quantity": 1
         },
         {
             "card_id": 3433,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Sword of Feast and Famine",
+            "name": "Sword of Feast and Famine",
             "quantity": 1
         },
         {
             "card_id": 3434,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Exquisite Blood",
+            "name": "Exquisite Blood",
             "quantity": 1
         },
         {
             "card_id": 3435,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Alhammarret's Archive",
+            "name": "Alhammarret's Archive",
             "quantity": 1
         },
         {
             "card_id": 3436,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Yawgmoth, Thran Physician",
+            "name": "Yawgmoth, Thran Physician",
             "quantity": 1
         },
         {
             "card_id": 3437,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Mox Opal",
+            "name": "Mox Opal",
             "quantity": 1
         },
         {
             "card_id": 3438,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Blood Speaker",
+            "name": "Blood Speaker",
             "quantity": 1
         },
         {
             "card_id": 3439,
             "copies_available": 5,
             "is_proxy": "true",
-            "name": " Nykthos, Shrine to Nyx",
+            "name": "Nykthos, Shrine to Nyx",
             "quantity": 5
         },
         {
             "card_id": 3440,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Mana Crypt",
+            "name": "Mana Crypt",
             "quantity": 1
         },
         {
             "card_id": 3441,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Demonic Tutor",
+            "name": "Demonic Tutor",
             "quantity": 1
         },
         {
             "card_id": 3442,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Boseiju, Who Shelters All",
+            "name": "Boseiju, Who Shelters All",
             "quantity": 1
         },
         {
             "card_id": 3443,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Massacre Wurm",
+            "name": "Massacre Wurm",
             "quantity": 1
         },
         {
             "card_id": 3444,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Sword of Light and Shadow",
+            "name": "Sword of Light and Shadow",
             "quantity": 1
         },
         {
             "card_id": 3445,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Sickening Shoal",
+            "name": "Sickening Shoal",
             "quantity": 1
         },
         {
             "card_id": 3446,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Toxic Deluge",
+            "name": "Toxic Deluge",
             "quantity": 1
         },
         {
             "card_id": 3447,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Painful Quandary",
+            "name": "Painful Quandary",
             "quantity": 1
         },
         {
             "card_id": 3448,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Razaketh, the Foulblooded",
+            "name": "Razaketh, the Foulblooded",
             "quantity": 1
         },
         {
             "card_id": 3449,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Batterskull",
+            "name": "Batterskull",
             "quantity": 1
         },
         {
             "card_id": 3450,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Grave Titan",
+            "name": "Grave Titan",
             "quantity": 1
         },
         {
             "card_id": 3451,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Vengevine",
+            "name": "Vengevine",
             "quantity": 1
         },
         {
             "card_id": 3452,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Lifegift",
+            "name": "Lifegift",
             "quantity": 1
         },
         {
             "card_id": 3453,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Patron of the Orochi",
+            "name": "Patron of the Orochi",
             "quantity": 1
         },
         {
             "card_id": 3454,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Isao, Enlightened Bushi",
+            "name": "Isao, Enlightened Bushi",
             "quantity": 1
         },
         {
             "card_id": 3455,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Iwamori of the Open Fist",
+            "name": "Iwamori of the Open Fist",
             "quantity": 1
         },
         {
             "card_id": 3456,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Reki, the History of Kamigawa",
+            "name": "Reki, the History of Kamigawa",
             "quantity": 1
         },
         {
             "card_id": 3457,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Enshrined Memories",
+            "name": "Enshrined Memories",
             "quantity": 1
         },
         {
             "card_id": 3458,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Putrefax",
+            "name": "Putrefax",
             "quantity": 1
         },
         {
             "card_id": 3459,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Ayumi, the Last Visitor",
+            "name": "Ayumi, the Last Visitor",
             "quantity": 1
         },
         {
             "card_id": 3460,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Bounteous Kirin",
+            "name": "Bounteous Kirin",
             "quantity": 1
         },
         {
             "card_id": 3461,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Summoner's Pact",
+            "name": "Summoner's Pact",
             "quantity": 1
         },
         {
             "card_id": 3462,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Azusa, Lost but Seeking",
+            "name": "Azusa, Lost but Seeking",
             "quantity": 1
         },
         {
             "card_id": 3463,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Crop Rotation",
+            "name": "Crop Rotation",
             "quantity": 1
         },
         {
             "card_id": 3464,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Greater Good",
+            "name": "Greater Good",
             "quantity": 1
         },
         {
             "card_id": 3465,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Primeval Bounty",
+            "name": "Primeval Bounty",
             "quantity": 1
         },
         {
             "card_id": 3466,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Primal Command",
+            "name": "Primal Command",
             "quantity": 1
         },
         {
             "card_id": 3467,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Thrun, the Last Troll",
+            "name": "Thrun, the Last Troll",
             "quantity": 1
         },
         {
             "card_id": 3468,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Craterhoof Behemoth",
+            "name": "Craterhoof Behemoth",
             "quantity": 1
         },
         {
             "card_id": 3469,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Blight Mamba",
+            "name": "Blight Mamba",
             "quantity": 1
         },
         {
             "card_id": 3470,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Carpet of Flowers",
+            "name": "Carpet of Flowers",
             "quantity": 1
         },
         {
             "card_id": 3471,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Guardian Project",
+            "name": "Guardian Project",
             "quantity": 1
         },
         {
             "card_id": 3472,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Neyith of the Dire Hunt",
+            "name": "Neyith of the Dire Hunt",
             "quantity": 1
         },
         {
             "card_id": 3473,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Yisan, the Wanderer Bard",
+            "name": "Yisan, the Wanderer Bard",
             "quantity": 1
         },
         {
             "card_id": 3474,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Lotus Cobra",
+            "name": "Lotus Cobra",
             "quantity": 1
         },
         {
             "card_id": 3475,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Heroic Intervention",
+            "name": "Heroic Intervention",
             "quantity": 1
         },
         {
             "card_id": 3476,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Ghalta, Primal Hunger",
+            "name": "Ghalta, Primal Hunger",
             "quantity": 1
         },
         {
             "card_id": 3477,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Kodama of the East Tree",
+            "name": "Kodama of the East Tree",
             "quantity": 1
         },
         {
             "card_id": 3478,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " The Great Aurora",
+            "name": "The Great Aurora",
             "quantity": 1
         },
         {
             "card_id": 3479,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Primeval Titan",
+            "name": "Primeval Titan",
             "quantity": 1
         },
         {
             "card_id": 3480,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Heartbeat of Spring",
+            "name": "Heartbeat of Spring",
             "quantity": 1
         },
         {
             "card_id": 3481,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Force of Will",
+            "name": "Force of Will",
             "quantity": 1
         },
         {
             "card_id": 3482,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Kira, Great Glass-Spinner",
+            "name": "Kira, Great Glass-Spinner",
             "quantity": 1
         },
         {
             "card_id": 3483,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Disrupting Shoal",
+            "name": "Disrupting Shoal",
             "quantity": 1
         },
         {
             "card_id": 3484,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Reef Worm",
+            "name": "Reef Worm",
             "quantity": 1
         },
         {
             "card_id": 3485,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Orvar, the All-Form",
+            "name": "Orvar, the All-Form",
             "quantity": 1
         },
         {
             "card_id": 3486,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Phyrexian Metamorph",
+            "name": "Phyrexian Metamorph",
             "quantity": 1
         },
         {
             "card_id": 3487,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Braids, Conjurer Adept",
+            "name": "Braids, Conjurer Adept",
             "quantity": 1
         },
         {
             "card_id": 3488,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Arcum Dagsson",
+            "name": "Arcum Dagsson",
             "quantity": 1
         },
         {
             "card_id": 3489,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Fierce Guardianship",
+            "name": "Fierce Guardianship",
             "quantity": 1
         },
         {
             "card_id": 3490,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Swan Song",
+            "name": "Swan Song",
             "quantity": 1
         },
         {
             "card_id": 3491,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Jace, Mirror Mage",
+            "name": "Jace, Mirror Mage",
             "quantity": 1
         },
         {
             "card_id": 3492,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Jace, Wielder of Mysteries",
+            "name": "Jace, Wielder of Mysteries",
             "quantity": 1
         },
         {
             "card_id": 3493,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Jace, Memory Adept",
+            "name": "Jace, Memory Adept",
             "quantity": 1
         },
         {
             "card_id": 3494,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Lorthos, the Tidemaker",
+            "name": "Lorthos, the Tidemaker",
             "quantity": 1
         },
         {
             "card_id": 3495,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Negate",
+            "name": "Negate",
             "quantity": 1
         },
         {
             "card_id": 3496,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Quest for Ula's Temple",
+            "name": "Quest for Ula's Temple",
             "quantity": 1
         },
         {
             "card_id": 3497,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " The Unspeakable",
+            "name": "The Unspeakable",
             "quantity": 1
         },
         {
             "card_id": 3498,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Azami, Lady of Scrolls",
+            "name": "Azami, Lady of Scrolls",
             "quantity": 1
         },
         {
             "card_id": 3499,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Gifts Ungiven",
+            "name": "Gifts Ungiven",
             "quantity": 1
         },
         {
             "card_id": 3500,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Hisoka, Minamo Sensei",
+            "name": "Hisoka, Minamo Sensei",
             "quantity": 1
         },
         {
             "card_id": 3501,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Keiga, the Tide Star",
+            "name": "Keiga, the Tide Star",
             "quantity": 1
         },
         {
             "card_id": 3502,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Higure, the Still Wind",
+            "name": "Higure, the Still Wind",
             "quantity": 1
         },
         {
             "card_id": 3503,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Thrummingbird",
+            "name": "Thrummingbird",
             "quantity": 1
         },
         {
             "card_id": 3504,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Hullbreacher",
+            "name": "Hullbreacher",
             "quantity": 1
         },
         {
             "card_id": 3505,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Blighted Agent",
+            "name": "Blighted Agent",
             "quantity": 1
         },
         {
             "card_id": 3506,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Whelming Wave",
+            "name": "Whelming Wave",
             "quantity": 1
         },
         {
             "card_id": 3507,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Counterspell",
+            "name": "Counterspell",
             "quantity": 1
         },
         {
             "card_id": 3508,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Threads of Disloyalty",
+            "name": "Threads of Disloyalty",
             "quantity": 1
         },
         {
             "card_id": 3509,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Inexorable Tide",
+            "name": "Inexorable Tide",
             "quantity": 1
         },
         {
             "card_id": 3510,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Reflections of Littjara",
+            "name": "Reflections of Littjara",
             "quantity": 1
         },
         {
             "card_id": 3511,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Snapcaster Mage",
+            "name": "Snapcaster Mage",
             "quantity": 1
         },
         {
             "card_id": 3512,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Kentaro, the Smiling Cat",
+            "name": "Kentaro, the Smiling Cat",
             "quantity": 1
         },
         {
             "card_id": 3513,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Oyobi, Who Split the Heavens",
+            "name": "Oyobi, Who Split the Heavens",
             "quantity": 1
         },
         {
             "card_id": 3514,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Reverence",
+            "name": "Reverence",
             "quantity": 1
         },
         {
             "card_id": 3515,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Celestial Kirin",
+            "name": "Celestial Kirin",
             "quantity": 1
         },
         {
             "card_id": 3516,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Luminarch Ascension",
+            "name": "Luminarch Ascension",
             "quantity": 1
         },
         {
             "card_id": 3517,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Puresteel Paladin",
+            "name": "Puresteel Paladin",
             "quantity": 1
         },
         {
             "card_id": 3518,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Open the Vaults",
+            "name": "Open the Vaults",
             "quantity": 1
         },
         {
             "card_id": 3519,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Path to Exile",
+            "name": "Path to Exile",
             "quantity": 1
         },
         {
             "card_id": 3520,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Norn's Annex",
+            "name": "Norn's Annex",
             "quantity": 1
         },
         {
             "card_id": 3521,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Ghostly Prison",
+            "name": "Ghostly Prison",
             "quantity": 1
         },
         {
             "card_id": 3522,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Yomiji, Who Bars the Way",
+            "name": "Yomiji, Who Bars the Way",
             "quantity": 1
         },
         {
             "card_id": 3523,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Michiko Konda, Truth Seeker",
+            "name": "Michiko Konda, Truth Seeker",
             "quantity": 1
         },
         {
             "card_id": 3524,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Terror of the Peaks",
+            "name": "Terror of the Peaks",
             "quantity": 1
         },
         {
             "card_id": 3525,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Urabrask of the Hidden",
+            "name": "Urabrask of the Hidden",
             "quantity": 1
         },
         {
             "card_id": 3526,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Bonus Round",
+            "name": "Bonus Round",
             "quantity": 1
         },
         {
             "card_id": 3527,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Divergent Transformations",
+            "name": "Divergent Transformations",
             "quantity": 1
         },
         {
             "card_id": 3528,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Heartless Hidetsugu",
+            "name": "Heartless Hidetsugu",
             "quantity": 1
         },
         {
             "card_id": 3529,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Dark Confidant",
+            "name": "Dark Confidant",
             "quantity": 1
         },
         {
             "card_id": 3530,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Liliana, the Last Hope",
+            "name": "Liliana, the Last Hope",
             "quantity": 1
         },
         {
             "card_id": 3531,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Vampire Nocturnus",
+            "name": "Vampire Nocturnus",
             "quantity": 1
         },
         {
             "card_id": 3532,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Toshiro Umezawa",
+            "name": "Toshiro Umezawa",
             "quantity": 1
         },
         {
             "card_id": 3533,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Hand of the Praetors",
+            "name": "Hand of the Praetors",
             "quantity": 1
         },
         {
             "card_id": 3534,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Ichor Rats",
+            "name": "Ichor Rats",
             "quantity": 1
         },
         {
             "card_id": 3535,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Pitiless Plunderer",
+            "name": "Pitiless Plunderer",
             "quantity": 1
         },
         {
             "card_id": 3536,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Tinybones, Trinket Thief",
+            "name": "Tinybones, Trinket Thief",
             "quantity": 1
         },
         {
             "card_id": 3537,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Kels, Fight Fixer",
+            "name": "Kels, Fight Fixer",
             "quantity": 1
         },
         {
             "card_id": 3538,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Glistening Oil",
+            "name": "Glistening Oil",
             "quantity": 1
         },
         {
             "card_id": 3539,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Pain's Reward",
+            "name": "Pain's Reward",
             "quantity": 1
         },
         {
             "card_id": 3540,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Maga, Traitor to Mortals",
+            "name": "Maga, Traitor to Mortals",
             "quantity": 1
         },
         {
             "card_id": 3541,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Argentum Armor",
+            "name": "Argentum Armor",
             "quantity": 1
         },
         {
             "card_id": 3542,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Tatsumasa, the Dragon's Fang",
+            "name": "Tatsumasa, the Dragon's Fang",
             "quantity": 1
         },
         {
             "card_id": 3543,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Maskwood Nexus",
+            "name": "Maskwood Nexus",
             "quantity": 1
         },
         {
             "card_id": 3544,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Chrome Mox",
+            "name": "Chrome Mox",
             "quantity": 1
         },
         {
             "card_id": 3545,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Phyrexian Altar",
+            "name": "Phyrexian Altar",
             "quantity": 1
         },
         {
             "card_id": 3546,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Void Winnower",
+            "name": "Void Winnower",
             "quantity": 1
         },
         {
             "card_id": 3547,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Mysterious Egg",
+            "name": "Mysterious Egg",
             "quantity": 1
         },
         {
             "card_id": 3548,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Proteus Staff",
+            "name": "Proteus Staff",
             "quantity": 1
         },
         {
             "card_id": 3549,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Weatherlight",
+            "name": "Weatherlight",
             "quantity": 1
         },
         {
             "card_id": 3550,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " The Chain Veil",
+            "name": "The Chain Veil",
             "quantity": 1
         },
         {
             "card_id": 3551,
             "copies_available": 3,
             "is_proxy": "true",
-            "name": " Golgari Signet",
+            "name": "Golgari Signet",
             "quantity": 3
         },
         {
             "card_id": 3552,
             "copies_available": 3,
             "is_proxy": "true",
-            "name": " Selesnya Signet",
+            "name": "Selesnya Signet",
             "quantity": 3
         },
         {
             "card_id": 3553,
             "copies_available": 3,
             "is_proxy": "true",
-            "name": " Boros Signet",
+            "name": "Boros Signet",
             "quantity": 3
         },
         {
             "card_id": 3554,
             "copies_available": 3,
             "is_proxy": "true",
-            "name": " Azorius Signet",
+            "name": "Azorius Signet",
             "quantity": 3
         },
         {
             "card_id": 3555,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Conjurer's Closet",
+            "name": "Conjurer's Closet",
             "quantity": 1
         },
         {
             "card_id": 3556,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Contagion Clasp",
+            "name": "Contagion Clasp",
             "quantity": 1
         },
         {
             "card_id": 3557,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Grafted Exoskeleton",
+            "name": "Grafted Exoskeleton",
             "quantity": 1
         },
         {
             "card_id": 3558,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Spellskite",
+            "name": "Spellskite",
             "quantity": 1
         },
         {
             "card_id": 3559,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Oblivion Stone",
+            "name": "Oblivion Stone",
             "quantity": 1
         },
         {
             "card_id": 3560,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Lux Cannon",
+            "name": "Lux Cannon",
             "quantity": 1
         },
         {
             "card_id": 3561,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Godsire",
+            "name": "Godsire",
             "quantity": 1
         },
         {
             "card_id": 3562,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " The Ur-Dragon",
+            "name": "The Ur-Dragon",
             "quantity": 1
         },
         {
             "card_id": 3563,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Kaya the Inexorable",
+            "name": "Kaya the Inexorable",
             "quantity": 1
         },
         {
             "card_id": 3564,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Kaalia of the Vast",
+            "name": "Kaalia of the Vast",
             "quantity": 1
         },
         {
             "card_id": 3565,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Genju of the Realm",
+            "name": "Genju of the Realm",
             "quantity": 1
         },
         {
             "card_id": 3566,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Iname as One",
+            "name": "Iname as One",
             "quantity": 1
         },
         {
             "card_id": 3567,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Apocalypse Hydra",
+            "name": "Apocalypse Hydra",
             "quantity": 1
         },
         {
             "card_id": 3568,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Savageborn Hydra",
+            "name": "Savageborn Hydra",
             "quantity": 1
         },
         {
             "card_id": 3569,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Geist of Saint Traft",
+            "name": "Geist of Saint Traft",
             "quantity": 1
         },
         {
             "card_id": 3570,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Aurelia, the Warleader",
+            "name": "Aurelia, the Warleader",
             "quantity": 1
         },
         {
             "card_id": 3571,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Gishath, Sun's Avatar",
+            "name": "Gishath, Sun's Avatar",
             "quantity": 1
         },
         {
             "card_id": 3572,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Skullbriar, the Walking Grave",
+            "name": "Skullbriar, the Walking Grave",
             "quantity": 1
         },
         {
             "card_id": 3573,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Wrenn and Six",
+            "name": "Wrenn and Six",
             "quantity": 1
         },
         {
             "card_id": 3574,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Tezzeret, Agent of Bolas",
+            "name": "Tezzeret, Agent of Bolas",
             "quantity": 1
         },
         {
             "card_id": 3575,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Corpsejack Menace",
+            "name": "Corpsejack Menace",
             "quantity": 1
         },
         {
             "card_id": 3576,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Nethroi, Apex of Death",
+            "name": "Nethroi, Apex of Death",
             "quantity": 1
         },
         {
             "card_id": 3577,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Tamiyo, Field Researcher",
+            "name": "Tamiyo, Field Researcher",
             "quantity": 1
         },
         {
             "card_id": 3578,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Eladamri's Call",
+            "name": "Eladamri's Call",
             "quantity": 1
         },
         {
             "card_id": 3579,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Boros Charm",
+            "name": "Boros Charm",
             "quantity": 1
         },
         {
             "card_id": 3580,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Academy Ruins",
+            "name": "Academy Ruins",
             "quantity": 1
         },
         {
             "card_id": 3581,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Command Tower",
+            "name": "Command Tower",
             "quantity": 1
         },
         {
             "card_id": 3582,
             "copies_available": 4,
             "is_proxy": "true",
-            "name": " Twilight Mire",
+            "name": "Twilight Mire",
             "quantity": 4
         },
         {
             "card_id": 3583,
             "copies_available": 3,
             "is_proxy": "true",
-            "name": " Mystic Gate",
+            "name": "Mystic Gate",
             "quantity": 3
         },
         {
             "card_id": 3584,
             "copies_available": 5,
             "is_proxy": "true",
-            "name": " Graven Cairns",
+            "name": "Graven Cairns",
             "quantity": 5
         },
         {
             "card_id": 3585,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Emeria, the Sky Ruin",
+            "name": "Emeria, the Sky Ruin",
             "quantity": 1
         },
         {
             "card_id": 3586,
             "copies_available": 1,
             "is_proxy": "true",
-            "name": " Dark Depths",
+            "name": "Dark Depths",
             "quantity": 1
         }
     ]
