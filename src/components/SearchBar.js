@@ -16,9 +16,9 @@ const SearchBar = (props) => {
         }
     }
 
-  return <div>
-      <label className="confirmation">{confirmation}</label>
-      <input type="text" onChange={updateConfirmation}/>
+  return <div className="input-group mb3">
+      <p className="confirmation">{confirmation}</p>
+      <input className="form-control" type="text" onChange={updateConfirmation}/>
   </div>;
 };
 
